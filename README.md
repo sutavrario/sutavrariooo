@@ -1,26 +1,20 @@
 # Hi there, I'm Sutavra Mitra 👋 🚀
 
-I am an **AI/ML Software Engineer & Full-Stack Developer** currently pursuing my B.Tech in Computer Science at the University of Engineering and Management, Kolkata. I specialize in building intelligent multi-agent systems, edge computer vision pipelines, and cloud-native architectures. 
+I am an **AI/ML Software Engineer & Full-Stack Developer** currently pursuing my B.Tech in Computer Science at the University of Engineering and Management, Kolkata[cite: 1]. I specialize in building intelligent multi-agent systems, edge computer vision pipelines, and cloud-native architectures[cite: 1]. 
 
-Driven by an obsession with performance, I enjoy merging real-time physical sensor data streams with synthetic intelligence to build low-latency tactical architectures.
+Driven by an obsession with performance, I enjoy merging real-time physical sensor data streams with synthetic intelligence to build low-latency tactical architectures[cite: 1].
 
 ---
 
 ### 🛠️ Tech Stack & Ecosystem
 
-┌────────────────────────────────────────────────────────────────────────┐
-│  AI/ML & Audio DSP  │ Gemini API, OpenCV, PyAudio, MediaPipe, NLP      │
-├─────────────────────┼──────────────────────────────────────────────────┤
-│  Languages          │ Java, Python, C, C++, JavaScript                 │
-├─────────────────────┼──────────────────────────────────────────────────┤
-│  Cloud & DevOps     │ Azure Services, GCP, Azure DevOps, Docker        │[cite: 1]
-├─────────────────────┼──────────────────────────────────────────────────┤
-│  Frameworks & Web   │ Next.js, React.js, FastAPI, Node.js, Tailwind    │[cite: 1]
-├─────────────────────┼──────────────────────────────────────────────────┤
-│  Hardware & Network │ ESP32, Embedded C++, Cisco IOS, Packet Tracer    │[cite: 1]
-└────────────────────────────────────────────────────────────────────────┘  
-PDF
-+ 1
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **AI/ML & Audio DSP** | Gemini API, OpenCV, PyAudio, MediaPipe, NLP[cite: 1] |
+| **Languages** | Java, Python, C, C++, JavaScript[cite: 1] |
+| **Cloud & DevOps** | Azure Services, GCP, Azure DevOps, Docker[cite: 1] |
+| **Frameworks & Web** | Next.js, React.js, FastAPI, Node.js, Tailwind[cite: 1] |
+| **Hardware & Network** | ESP32, Embedded C++, Cisco IOS, Packet Tracer[cite: 1] |
 
 ---
 
@@ -35,7 +29,7 @@ PDF
 ### 🏆 Featured Hackathon & Engineering Projects
 
 #### 🛡️ Honsla. Eendhan. Badla. — Multi-Agent AI Tactical Defense System
-*Selected for HackArena 2.0 Finals at IIIT Delhi | Top 15 Team in Kolkata Zonals*[cite: 1]
+*Selected for HackArena 2.0 Finals at IIIT Delhi \| Top 15 Team in Kolkata Zonals*[cite: 1]
 *   **The Build:** A hybrid tactical intelligence platform merging hardware sensor telemetry with synthetic battlefield intelligence[cite: 1].
 *   **Tech:** Gemini 2.5 Flash, FastAPI, WebSockets, React.js, ESP32, Embedded C++, PySerial[cite: 1].
 *   **Core Feature:** Designed a concurrent multi-agent engine utilizing 8 specialized AI agents executing multi-modal risk scoring over a 115,200 baud serial stream[cite: 1].
@@ -51,21 +45,18 @@ PDF
 ### 📌 Latest Active Repositories
 
 <!-- DYNAMIC_PROJECTS:START -->
-- [sutavrario pushed sutavrariooo](https://github.com/sutavrario/sutavrariooo/compare/85e37e4ad8...d97ec9b91c)
-- [sutavrario pushed sutavrariooo](https://github.com/sutavrario/sutavrariooo/compare/b1fbd13707...85e37e4ad8)
-- [sutavrario pushed sutavrariooo](https://github.com/sutavrario/sutavrariooo/compare/c2eb6667c8...b1fbd13707)
-- [sutavrario created a branch](https://github.com/sutavrario/sutavrariooo/compare/0000000000...c2eb6667c8)
-- [sutavrario pushed IndiaPopulationPredictor](https://github.com/sutavrario/IndiaPopulationPredictor/compare/91be1d474d...390d73d86f)
 <!-- DYNAMIC_PROJECTS:END -->
 
 ---
 
 ### 📊 GitHub Analytics
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=sutavrario&show_icons=true&theme=tokyonight&count_private=true" alt="Sutavra's GitHub Stats" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sutavrario&layout=compact&theme=tokyonight&hide=html,css" alt="Top Languages" height="180px" />
-</p>
+<table>
+  <tr>
+    <td width="50%"><img src="https://github-readme-stats.vercel.app/api?username=sutavrario&show_icons=true&theme=tokyonight&count_private=true" alt="Sutavra's GitHub Stats" /></td>
+    <td width="50%"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sutavrario&layout=compact&theme=tokyonight&hide=html,css" alt="Top Languages" /></td>
+  </tr>
+</table>
 
 ---
 
