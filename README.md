@@ -60,11 +60,6 @@
 ### 📌 Latest Active Repositories
 
 <!-- DYNAMIC_PROJECTS:START -->
-- [sutavrario pushed sutavrario](https://github.com/sutavrario/sutavrario/compare/ca19651a3c...f0cb1627ab)
-- [sutavrario pushed sutavrario](https://github.com/sutavrario/sutavrario/compare/0fd7d0e145...ca19651a3c)
-- [sutavrario pushed sutavrario](https://github.com/sutavrario/sutavrario/compare/85e37e4ad8...d97ec9b91c)
-- [sutavrario pushed sutavrario](https://github.com/sutavrario/sutavrario/compare/b1fbd13707...85e37e4ad8)
-- [sutavrario pushed sutavrario](https://github.com/sutavrario/sutavrario/compare/c2eb6667c8...b1fbd13707)
 <!-- DYNAMIC_PROJECTS:END -->
 
 ---
@@ -72,8 +67,8 @@
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sutavrario&show_icons=true&theme=tokyonight&count_private=true" alt="Sutavra's GitHub Stats" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sutavrario&layout=compact&theme=tokyonight&hide=html,css" alt="Top Languages" height="180px" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sutavrario&theme=tokyonight" alt="Sutavra's Streak Stats" height="180px" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sutavrario&theme=tokyonight" alt="Top Languages" height="180px" />
 </p>
 
 ---
@@ -81,7 +76,7 @@
 ### 🌐 Let's Connect
 
 - **Portfolio:** [sutavramitraportfolio.vercel.app](https://sutavramitraportfolio.vercel.app/)[cite: 1]
-- **LinkedIn:** [/in/sutavrariomitra6](https://www.linkedin.com/in/sutavrariomitra6/)[cite: 1]
+- **LinkedIn:** [linkedin.com/in/sutavrariomitra6](https://www.linkedin.com/in/sutavrariomitra6/)[cite: 1]
 - **Email:** [mitrasutavra65@gmail.com](mailto:mitrasutavra65@gmail.com)[cite: 1]
 
 ⚡ *Fun Fact:* When I'm not configuring edge compute pipelines or debugging serial loops, I spend my time deep in sound design playing the synthesizer and bass guitar, or hitting the badminton court[cite: 1].
