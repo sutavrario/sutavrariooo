@@ -51,6 +51,11 @@ PDF
 ### 📌 Latest Active Repositories
 
 <!-- DYNAMIC_PROJECTS:START -->
+- [sutavrario pushed sutavrariooo](https://github.com/sutavrario/sutavrariooo/compare/85e37e4ad8...d97ec9b91c)
+- [sutavrario pushed sutavrariooo](https://github.com/sutavrario/sutavrariooo/compare/b1fbd13707...85e37e4ad8)
+- [sutavrario pushed sutavrariooo](https://github.com/sutavrario/sutavrariooo/compare/c2eb6667c8...b1fbd13707)
+- [sutavrario created a branch](https://github.com/sutavrario/sutavrariooo/compare/0000000000...c2eb6667c8)
+- [sutavrario pushed IndiaPopulationPredictor](https://github.com/sutavrario/IndiaPopulationPredictor/compare/91be1d474d...390d73d86f)
 <!-- DYNAMIC_PROJECTS:END -->
 
 ---
