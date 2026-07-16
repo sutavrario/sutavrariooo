@@ -1,0 +1,22 @@
+name: Update Profile README
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # Runs automatically every 24 hours
+  workflow_dispatch: # Allows you to run it manually anytime
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write # Allows the workflow to update your README file
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Fetch Latest GitHub Activity
+        uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          comment_tag_name: "DYNAMIC_PROJECTS"
+          feed_list: "https://github.com/sutavrario.atom"
+          max_post_count: 5
