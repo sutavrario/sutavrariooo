@@ -46,12 +46,12 @@ PDF
 *   **Tech:** LLMs, Next.js, React.js, OCR Engines, Behavioral Analytics[cite: 1].
 *   **Core Feature:** Swapped static workflows for a Predictive Risk Engine using behavioral analytics to detect fraudulent vendor transactions[cite: 1].
 
-<!-- START_DYNAMIC_PROJECTS -->
-<!-- This section will be automatically updated by the GitHub Action workflow below -->
 ---
 
 ### 📌 Latest Active Repositories
-<!-- END_DYNAMIC_PROJECTS -->
+
+<!-- DYNAMIC_PROJECTS:START -->
+<!-- DYNAMIC_PROJECTS:END -->
 
 ---
 
